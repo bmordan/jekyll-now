@@ -1,4 +1,4 @@
-![SWE Newsletter blog](https://user-images.githubusercontent.com/4499581/86033727-4f034680-ba31-11ea-87b8-96bc8bf75de0.png)
+[![SWE Newsletter blog](https://user-images.githubusercontent.com/4499581/86033727-4f034680-ba31-11ea-87b8-96bc8bf75de0.png)](https://bmordan.github.io/swe-news)
 
 Here rests all the SWE newsletters. To add a new post. Clone the repo. Then create a new file in the 📁`_posts` with the following format:
 
