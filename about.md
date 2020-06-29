@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+These are the newsletter that get sent out to apprentices each week.
 
-### More Information
+### Your News
 
-A place to include any other types of information that you'd like to include about yourself.
+Do you have news or announcements that you'd like me to include?
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[bernard.mordan@whitehat.org.uk](mailto:bernard.mordan@whitehat.org.uk)
